@@ -1,0 +1,5 @@
+{
+  "name": "DocuFlow - Platforma pro správu dokumentů",
+  "description": "Komplexní platforma pro správu dokumentů od vytvoření až po archivaci s automatizovanými pracovními postupy. Tato aplikace představuje moderní vstupní stránku pro SaaS produkt, vytvořenou pomocí Reactu a Tailwind CSS.",
+  "requestFramePermissions": []
+}
